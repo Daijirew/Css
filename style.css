@@ -11,3 +11,6 @@ li{
     list-style-type: "😃";
     
 }
+section > h2:hover{
+    cursor: pointer;
+}
